@@ -2,5 +2,5 @@
 
 cd /github/workspace
 pwd
-ls
+ls -aR
 pre-commit run --all-files --color always --verbose
