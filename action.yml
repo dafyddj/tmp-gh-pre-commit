@@ -1,0 +1,6 @@
+# action.yml
+name: GH-pre-commit
+description: Run `pre-commit`
+runs:
+  using: docker
+  image: Dockerfile
